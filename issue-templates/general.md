@@ -6,8 +6,8 @@ Explain what the ticket is for, why do we need it?
 Where are we at the writing of this ticket? Decisions that have already been made...
 
 * [ ] <name> has been decided to meet this need but needs configured and stoodup on factory cluster
-* [ ] <name> is running in the cluster but needs further configuration
-
+* [ ] <name> is running in the factory cluster but needs further configuration to meet ticket requirements
+    - asdf
 
 ## Acceptance criteria:
 <!--- Things that have to be done **correctly** before this ticket can be closed 
